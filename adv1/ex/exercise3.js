@@ -45,8 +45,7 @@ function isValidAge(age = 10) {
 }
 alert (isValidAge(14) );
 
-// Symbol
-// Create a symbol: "This is my first Symbol"
+
 
 // Arrow functions
 function whereAmI(username, location) {
